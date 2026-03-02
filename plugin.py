@@ -8,7 +8,7 @@ plugin = NekroPlugin(
     name="记忆模块",
     module_name="nekro_plugin_memory",
     description="让llm拥有长期记忆",
-    version="0.2.0",
+    version="0.2.1",
     author="Zaxpris",
     url="https://github.com/zxjwzn/nekro-plugin-memory",
 )
